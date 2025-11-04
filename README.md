@@ -1,4 +1,4 @@
-**🏥 Vida & Cuidado
+🏥 Vida & Cuidado
 
 Vida & Cuidado é um sistema simples desenvolvido com Flask (Python) para gerenciar informações de médicos e pacientes.
 Ele permite visualizar listas organizadas de pacientes e médicos, além de servir como um modelo básico para sistemas de gestão hospitalar.
